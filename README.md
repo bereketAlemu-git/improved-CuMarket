@@ -1,9 +1,33 @@
 Name: Bereket Alemu
 
-List of files: CuMarket.h CuMarket.cc Listing.h Listing.cc List.h Price.h Price.cc Category.h Category.cc Filter.h Filter.cc main.cc Makefile test.cc TestControl.h TestControl.cc Tester.h Tester.cc View.h View.cc listings folder and zip folder Control.h Control.cc README.md
+# improved-CuMarket
 
-Description: CuMarket is a digital marketplace application designed to manage listings. It allows users to add, remove, and search for listings based on filters.
+This project is a digital marketplace application for listing and selling goods, created in C++ as part of the "Introduction to Software Engineering" course. The project focuses on using operator overloading, templates, multiple inheritance, and the strategy pattern to manage and search listings effectively.
 
-Compilation: To run the program: Enter "make a4" in the termminal Then to run the application enter "./a4"
+### Setup
+Ensure you have a C++ compiler installed on your system.
 
-From Comp 2404 course from carleton University.
+### Compilation
+Navigate to the root directory of the project and run the following command:
+```sh
+make
+```
+
+### Execution
+To run the application, execute the following command:
+```sh
+./a4
+```
+
+### Features
+Listings Management: Add, remove, and search for listings.
+
+Price Class: Store and manage prices with operator overloading.
+
+Listing Class: Store information about items for sale.
+
+List Class: Templated collection class to store listings.
+
+Filter Classes: Implement different search filters using multiple inheritance.
+
+CuMarket Class: Main class for managing the marketplace.
