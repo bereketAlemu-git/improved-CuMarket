@@ -2,7 +2,7 @@ Name: Bereket Alemu
 
 # improved-CuMarket
 
-This project is a digital marketplace application for listing and selling goods, created in C++ as part of the "Introduction to Software Engineering" course. The project focuses on using operator overloading, templates, multiple inheritance, and the strategy pattern to manage and search listings effectively.
+This project is a digital marketplace application for listing and selling goods. The project focuses on using operator overloading, templates, multiple inheritance, and the strategy pattern to manage and search listings effectively.
 
 ### Setup
 Ensure you have a C++ compiler installed on your system.
